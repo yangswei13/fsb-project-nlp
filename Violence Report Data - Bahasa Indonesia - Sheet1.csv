@@ -1,0 +1,501 @@
+ID,kategori,isi_laporan,sentimen
+1,Fisik,Ibu saya sering pingsan dipukuli oleh ayah sampai berdarah-darah,High
+2,Psikis,"Sejak kecil, ayah saya tidak menyukai penampilan saya. Warna kulit dan wajah saya berbeda dengan keluarga yang lain. Ayah saya sangat membenci saya dan memaksa saya harus melakukan operasi plastik ketika sudah besar nanti.",High
+3,Seksual,Pagi tadi saya iseng mengunggah sebuah foto selfi di internet. Lalu saya dapat kabar kalau teman kuliah saya melakukan masturbasi sambil melihat foto selfie saya. saya sangat takut,High
+4,Seksual,ANAK SAYA DIGERAYANGI OLEH LAKI-LAKI TIDAK DIKENAL SAAT PULANG SEKOLAH. SAAT DISELIDIKI TERNYATA LAKI-LAKI TERSEBUT ADALAH ALUMNI SEKOLAHNYA. ANAK SAYA SANGAT TRAUMA SEKARANG,High
+5,Fisik,Ada kasus pencabulan di SLB dekat rumah. Belum tertangani dengan baik sampai sekarang karena kasus masih sering terjadi,High
+6,Seksual,Saya menemukan seorang anak SD yang dipegang-pegang badannya sama staf di sekolahnya,High
+7,Psikis,"Papa aku kalau ngomong suka kasar banget. Aku dikatain idiot lah, bego lah, goblok lah, anak gatau diuntung. Sakit sekali dengarnya. Ini aku nulis juga sambil nangis. Aku harap ada penyelesaian buat papa aku karena aku ga berani untuk bilang",Low
+8,Fisik,"Sering terdengar teriakan di rumah tetangga saya. Setelah ditelusuri ternyata anaknya sering disiksa oleh ibunya. Dia disiram air panas, bibirnya diberi balsam, dan sering mendapatkan kekerasan fisik",High
+9,Seksual,Dosen saya mengiming-imingi nilai besar jika mau berhubungan badan dengannya,High
+10,Psikis,Saya benci dengan ibu saya karena dia selalu membuat kepercayaan diri saya hilang.,Low
+11,Seksual,Saya sering dipaksa melakukan hubungan badan dengan om saya,High
+12,Fisik,Adik saya sering dipukul temannya sampai cacat fisik,High
+13,penelantaran,Saya diharuskan bekerja oleh bapak dari pagi sampai sore dan hanya diberi makan satu kali dalam sehari,High
+14,Psikis,Suami teman saya sering merendahkan fisik teman saya setelah melahirkan,Low
+15,Fisik,Ibu selalu ngancem bunuh aku kalau kerjanya ga bener,High
+16,Psikis,Anak tetangga sering mengeluh dipaksa belajar oleh kedua orang tuanya. Biasanya ia hanya istirahat untuk makan. Dia dilarang bermain sama teman-temannya,High
+17,Fisik,Anak saya magang di hotel melebihi jam kerja.. sehari bisa 10 jam sehari,Low
+18,Seksual,ANAK SAYA PEREMPUAN DIPERLAKUKAN SECARA TIDAK PANTAS OLEH BOSNYA. TUBUHNYA DIRABA RABA SECARA TIDAK BERMORAL!,High
+19,Psikis,Kakak saya dan pacarnya sering menertawakan saya karena saya jelek,Low
+20,Fisik,tetangga saya suka menganiaya bayinya jika bayinya berisik. Bayinya sering terluka,High
+21,Seksual,Orang tua saya menjual saya pada lelaki hidung belang untuk menjadikan saya alat penghasil uang,High
+22,Psikis,Suami saya suka melampiaskan kemarahannya dengan saya dengan menggunakan kata umpatan yang sangat kasar,Low
+23,penelantaran,Saya melihat seorang ibu di daerah x meninggalkan sebuah kardus mencurigakan. Keesokkan harinya ada kabar bahwa isi kardus tersebuat adalah seorang anak bayi,Low
+24,penelantaran,Ibu saya meninggalkan rumah dan tidak pernah pulang kembali ke rumah,High
+25,Eksploitasi,Tetangga saya setiap malam membawa orang kerumahnya dan setelah itu orang yang dibawa tidak pernah terlihat lagi,High
+26,trafficking,"bapak dan ibu, saat ini saya dipaksa bekerja di daerah X dan merupakan korban dari perdagangan manusia",High
+27,Fisik,Adik saya tuna rungu dan sering mendapatkan perlakuan tidak menyenangkan oleh teman-teman sekolahnya. Dia sering ditendang dan dipukuli,High
+28,Seksual,Kejadian pencabulan oleh anak dibawah umur terjadi siang tadi di dekat rumah saya alamatnya gang B no 4,High
+29,Fisik,saya kerap kali dipukuli hingga lebam oleh boss jika tidak menuruti permintaannya diluar pekerjaan,High
+30,Fisik,Teman saya sering dipukuli hingga memar oleh pacarnya ketika sedang emosi,High
+31,Fisik,Tetangga saya menggunakan narkoba. Dia sering menganiaya anak-anaknya kalau sedang mabuk,High
+32,Psikis,Bapak saya suka mengintimidasi ibu karena keluarga ibu berasal dari keluarga tidak mampu,Low
+33,Seksual,Saya sering menemukan kasus pencabulan pada anak-anak di gang sebelah,High
+34,Seksual,Anak perempuan saya diperkosa oleh staff sekolah X!,High
+35,Fisik,"Ibu saya memiliki kelainan mental, oleh karena itu dia sering memukul dan melakukan kekerasan fisik lainnya pada saya. Saya tidak pernah mendapat kasih sayang dari seorang ibu :)",High
+36,Fisik,Tetangga saya sering memukul anaknya jika nakal. Padahal anaknya masih balita,High
+37,Seksual,Biadab sekali perilaku tetangga saya. Anak saya masih berumur 14 tahun tapi dia habis diperkosa oleh tetangga saya ini. Saya menangis setiap kali mendengar anak saya mengeluh kesakitan,High
+38,Seksual,"Saya melihat kejanggalan yang ada di anak tetangga sya. Ternyata dia pernah diperkosa oleh beberapa orang di sekolahnya. Dia terlihat sangat trauma, padahal umurnya masih 12 tahun",High
+39,Psikis,Suami saya jarang pulang dan tidak memberikan saya nafkah. Akhirnya beredar gosip di kalangan tetangga dan saya merasa stress,Low
+40,Psikis,"Teman saya albino, dia sering kali dibully oleh teman-temannya. Dia sering dipandang rendah, dikucilkan, dan dipermalukan. Saya tidak berani membelanya karena saya pasti akan dibully juga",Low
+41,Seksual,"Aku masih SMP, kemarin kakak kelasku melecehkan aku dengan merobek bajuku dan menyibakkan rokku untuk ditertawakan di depan teman-temannya. Aku sangat malu",Low
+42,Fisik,Saya selalu dipukul dengan benda tumpul setiap melakukan sebuah kesalahan kecil oleh ayah saya,High
+43,Psikis,Aku sering dipanggil monyet sama temen-temen karena bulu di kulit aku lebat. Sakit hati banget dengernya dan aku juga nangis nulis ini. Aku gatau harus gimana buat ngelawan mereka,Low
+44,Seksual,Perlakuan om saya pada saya terkadang sering bercanda. Namun saya tidak merasa itu bercanda karena dia sering memegang bagian privat saya seperti dada dan bokong,High
+45,Fisik,"Menantu saya sangat kasar terhadap saya. Dia sering bermain tangan seperti memukuli saya, tapi saya tidak berani membicarakan ini kepada anak saya (suaminya)",High
+46,Seksual,Kemarin saya habis dibegal bokong di dekat rumah. Saya sangat malu dan menangis seharian,High
+47,Fisik,Kemarin di halte saya liat tetangga saya yang perempuan dianiaya suaminya di publik. Dipukuli hingga pingsan,High
+48,Psikis,"Biasanya aku selalu bareng ibu, tapi semenjak ibu ditinggal ayah tanpa kejelasan, ibu jadi mudah stress dan ngelampiasin semua emosinya ke aku.. aku sedih dan gatau harus bantu gimana.",Low
+49,Psikis,"Beberapa hari yang lalu, saya melihat seorang wanita menampar nenek di kereta karena tidak mau memberikan kursinya kepadanya",Low
+50,Seksual,Saat pulang kerja sekelompok pria di dekat rumah saya memaksa saya dan saya disetubuhi oleh lebih dari satu orang,High
+51,Psikis,"Suami saya terus-terusan mabuk dan berjudi sedangkan saya harus kerja keras cari uang. Kalau sudah mabuk dia pasti melampiaskan emosinya pada saya dengan mengatai saya anjing, babi",Low
+52,Fisik,Anak saya ketika main sering sekali disiram air comberan jika berisik oleh tetangga,Low
+53,Seksual,Saya tidak pernah mau jika diajak berhubungan badan dengan pacar. Suatu hari dia memaksa saya dan mengambil beberapa gambar. Dia mulai menyebarkan gamabr tersebut pada grup teman-temannya. Saya sangat kacau dan takut,High
+54,Fisik,Ayah sering banget mukulin ibu dan main tangan,High
+55,penelantaran,saya menemukan bayi di bawah flyover jalan x,Low
+56,Seksual,SAYA INGIN MELAPOR BAHWA ANAK SAYA DILECEHKAN DAN DIPERKOSA OLEH TETANGGA SAYA. ALAMATNYA BERADA DI JALAN MERPATI TENGGARA 1,High
+57,Seksual,Bapak saya sering memperkosa wanita ketika mereka mabuk. Saya sangat takut,High
+58,Seksual,"Teman saya trauma karena saat pulang sekolah, payudaranya dipegang orang tidak dikenal",High
+59,Psikis,"Orang tua saya kerap kali bertengkar dan mengatai saya dengan kata-kata yang menyakitkan seperti iblis, anjing, babi, dan kata kasar lainnya.",Low
+60,Fisik,"Saya seorang istri dengan suami yang kasar. Tidak segan-segan dia memukul saya atau melempar benda ke saya, dan itu dilakukan di depan anak-anak",High
+61,Psikis,Suami saya sering berpergian tanpa informasi dan mengatai saya ketika sedang emosi. Saya tidak merasa disayang maupun dicintai,Low
+62,Psikis,Saya melihat ada pembullyan terhadap suatu kelompok ras di gang bunga nomor 7,Low
+63,Seksual,Papa saya suka memegang dada dan bagian bawah wanita di kantornya,High
+64,Psikis,Kemarin tetangga saya mempermalukan anak temannya dengan tindakan rasisme. Dia menghina anak tersebut berdasarkan warna kulit yang berbeda dengan ibunya.,Low
+65,Seksual,Om saya sering melakukan pelecehan seksual pada saya,High
+66,Psikis,"Ibu selalu maksa aku untuk belajar dan belajar. Kalau tidak belajar satu hari, akan dibangunkan tengah malam dan tidak diberi makan..",High
+67,Fisik,Kapanya keluargaku harmonis? ayah dan ibu kalau emosi pasti mukulin aku,High
+68,Seksual,saya ingin melaporkan di SD X seorang guru telah menyodomi muridnya secara paksa,High
+69,Fisik,Teman adik saya sering dibully jelek dan dicubit oleh teman sekolahnya tanpa alasan yang jelas,Low
+70,penelantaran,adik saya dibuang ke jalanan oleh ibu karena tidak bisa memberi makan,High
+71,Psikis,Beberapa hari lalu sekolah A memarahi murid dengan membawa-bawa ras. Apakah pantas sekolah TK berbuat demikian?,Low
+72,Fisik,"Apakah pantas anak umur 9 tahun kls 4 SD cuma karna bercanda harus menerima hukuman fisik,ini sedang aku alami anaku mendapat kekerasan fisik dari gurunya sekarang dia g mau sekolah lg.",High
+73,Fisik,Kalau papah emosi biasanya main tangan sama aku,Low
+74,penelantaran,Mama saya meninggalkan saya dan adik sendirian di rumah dan tidak pernah pulang lagi,High
+75,Seksual,Saya ingin melaporkan kejadian pemerkosaaan yang dilakukan oleh teman saya kepada adik saya. Saat ini adik saya mengalami trauma,High
+76,Seksual,tolong ibu saya dipaksa dan diperkosa oleh rentenir yang meminjamkan uang karena belum bisa mengembalikan uang yang dipinjam untuk biaya saya berobat,High
+77,Fisik,Ayah dan ibu bersekongkol menyiram saya dengan air panas kalau saya nakal. Kulit saya sekarang jadi sangat sensitif dan luka-luka,High
+78,trafficking,"selamat malam, barusan saya melihat sekelompok orang mencurigakan yang membawa segerombolan anak ke dalam mobil dengan plat BHigh456XYZ",High
+79,Seksual,Anak tetangga saya pernah diperkosa oleh ketua RT. Saat itu umurnya masih 14 tahun. Mohon diusut,High
+80,Psikis,Suami saya hingga sekarang tidak memberikan saya nafkah. Dia juga mengancam saya setiap harinya untuk mencari uang.,Low
+81,Psikis,Suami saya sudah tidak menafkahi saya semenjak dia pergi ngantor keluar kota. Setelah saya dengar dia ternyata punya istri simpanan di luar kota. Sakit sekali dengarnya. Padahal saya punya 2 anak dengan dia,Low
+82,Psikis,Saya sudah capek dengan perilaku ibu saya yang abusive. Dia tidak pernah sekalipun memberikan rasa kasih sayang pada saya. Sejak kecil saya diasuh oleh nenek. Ibu saya membenci saya karena mengingatkan pada bapak. Bapak sudah lama meninggalkan ibu sejak saya lahir,High
+83,Seksual,tolong bantu saya melaporkan bapak x yang telah melakukan pemerkosaan terhadap kakak saya hingga mengalami trauma dan penyakit mental,High
+84,penelantaran,tolong ada anak yang ditinggal pergi oleh ayahnya yang tidak bertanggungjawab di daerah x,High
+85,Fisik,Ayah suka mukul orangnya. Dia bisa mukul seluruh keluarganya tanpa terkecuali,High
+86,penelantaran,Orangtua saya melarang saya untuk pergi bersekolah dan mengharuskan saya untuk mengamen di jalanan,High
+87,Seksual,"Tolong, ibu saya diperkosa oleh segerombolan pencuri. Mentalnya hancur",High
+88,Seksual,"Ibu saya terus mengancam saya mencari uang, saya dipaksa menjadi PSK hingga sekarang",High
+89,Fisik,"Om saya sudah bercerai dengan istrinya, dan ia menahan istrinya untuk bertemu dengan anak-anaknya, padahal anak-anaknya sering disiksa",High
+90,Fisik,Saya sering lebam karena dipukuli ayah,High
+91,Fisik,"Orang tua saya sangat keras. Mereka suka memukuli saya dengan sapu lidi dan gesper, makanya saya sering kabur dari rumah. Tapi mereka pasti memaksa saya untuk pulang, saya tidak berani..",Low
+92,Psikis,Orang tua saya sering memaksa saya untuk memakai pakaian laki-laki padahal saya adalah seorang perempuan,High
+93,Seksual,Kemarin saya mencoba mencoba mendidik adik saya yang berumur 9 tahun tentang pendidikan seks. Dia mengaku pernah diperkosa oleh gurunya dan sangat takut untuk bercerita,High
+94,Fisik,"Saya berumur 14 tahun, sering mendapat kekerasan fisik oleh orang tua ketika mereka sedang emosi",High
+95,Fisik,Keluarga saya baik dari sisi ayah maupun ibu suka menganiaya saya. Mereka bagaikan kompak ingin saya lenyap dari dunia ini,High
+96,Fisik,Om saya sering memukul tante saya ketika sedang mabuk dan kalah judi sampai tante pingsan,High
+97,Seksual,Aku benci banget sama ayah yang suka megang bagian privat aku. padahal aku udah mau SMA tapi dia mesum.,High
+98,Psikis,Ayah sering sekali mencubit dan mengatai aku bodoh,Low
+99,Psikis,"Pacar saya ini cantik. Mungkin karena itu dia dibully oleh teman sekelasnya, apalagi tahu bahwa ia ternyata memiliki pacar. Teman-temannya memandang pacar saya dengan tatapan tidak suka dan kerap kali merendahkannya dengan mengatakan ""cantik doang gaada otak"" padahal pacar saya sering masuk rangking.",Low
+100,Seksual,"Saat ini kakak saya sedang merantau dan ngekos. Saat melihat di dalam kamarnya, saya menemukan banyak celana dalam wanita. Ketika saya tanya di kosannya apakah ada kasus kehilangan celana dalam,mereka mengiyakan. Saya curiga kakak saya yang melakukannya",Low
+101,penelantaran,Saya mendengar suara bayi di dalam mobil yang terkunci dan butuh bantuan sekarang juga,High
+102,Psikis,Suami saya tiba-tiba menghilang tanpa berita apapun dan kembali dengan seorang wanita. Ia kembali untuk menceraikan saya. Saya stress memikirkan menafkahi anak saya,Low
+103,Fisik,Saya sering ditendang dan dibuli teman-teman dengan disiram air got dan dimintai uang setiap pulang sekolah,High
+104,Psikis,Saya sering dibanding-bandingkan oleh ibu saya dengan orang lain,Low
+105,Seksual,Paman saya memaksa saya untuk membuka seluruh pakaian saya di depannya dan mulai memainkan alat kelaminnya,High
+106,Psikis,Om aku suka berbuat kasar pada mama,Low
+107,Seksual,Kakak saya sering melakukan pencabulan terhadap pacarnya,High
+108,Psikis,Pagi tadi ada tetangga saya yang berteriak pada anaknya memaki-maki dengan sebutan anak setan sampai anak itu menangis sesenggukan,Low
+109,Seksual,Tante saya sering mendapatkan kekerasan seksual oleh ayah saya,High
+110,Fisik,Kejadiannya baru terjadi minggu lalu. saya lihat tetangga yaitu seorang IRT sedang memukuli anaknya setelah mengambil rapot,High
+111,Fisik,"Saya ingin mengambil anak saya dari mantan suami saya, karena mantan suami saya ini pengangguran dan suka nyiksa anak saya sampe dipukulin",High
+112,penelantaran,saat ini saya sakit-sakitan di rumah dan orangtua saya tidak mau membawa saya ke dokter ataupun rumah sakit,High
+113,Fisik,"Anak tetangga saya dengan mamanya dipukulin dan dibanting di depan banyak orang. Tapi nggak ada satupun yang berani bertindak, akhirnya saya membuat laporan ini",High
+114,Seksual,Kakak saya sering dipaksa melakukan hubungan badan dengan pacarnya,High
+115,Psikis,Suami saya tidak menganggap saya seperti istrinya. Dia sangat sensitif dengan masalah uang. Dia berkali-kali meminta saya cerai karena masalah sepele,Low
+116,Seksual,Anak laki-laki saya gay. Dia mengaku saat kecil dulu pernah disodomi oleh orang dari salah satu institusi,High
+117,Fisik,Mantan suami saya masih sering menganiaya saya padahal sudah bercerai. Ia juga kerap kali melakukan teror untuk membunuh saya setiap saya tidak mau memberikannya uang..,High
+118,Psikis,Tutur kata suami saya tergadap keluarga saya cenderung merendahkan dan membuat malu di hadapan publik. Dia sering meremehkan keluarga saya,Low
+119,Fisik,Ibu saya sering disiksa hingga masuk ke rumah sakit,High
+120,Seksual,"Sungguh laknat sekolah O, anak laki-laki saya masih SMP DISODOMI oleh guru-guru yang mengajar disana. Kurang ajar, anak saya sampai trauma. Saya sangat marah",High
+121,Seksual,Anak saya berumur 14 tahun diperkosa gurunya dan anak saya memiliki trauma besar sekarang. Dia tidak mau sekolah,High
+122,Eksploitasi,Di daerah x saya melihat ada pengemis yang meminta-minta sambil menggendong bayi yang tidur namun bayinya terlihat aneh. Sepertinya bayinya dibius untuk terus tidur,High
+123,penelantaran,Kemarin saya menemukan seorang anak di dalam rumah kosong menangis sendirian,High
+124,Fisik,Kalau mamah emosi biasanya suka mukul aku,Low
+125,Seksual,Ayah memaksa saya menjual diri ke tetangga yang kaya. Saya merasa saya sudah tidak punya harga diri lagi,High
+126,Psikis,Saya letih dengan ucapan ibu saya yang terus-terusan menghujat saya karena saya gagal masuk sekolah negeri,Low
+127,Seksual,saya ingin melaporkan kekerasan seksual yang dialami oleh sahabat saya yang diperkosa oleh guru saya di SMA X,High
+128,Psikis,Suami saya suka berbicara kotor di depan anak,Low
+129,Seksual,Saya ingin melaporkan bahwa ada pemerkosaan yang terjadi di kawasan perumahan saya. Sang pelaku mengincar anak-anak kecil dan membius mereka,High
+130,Seksual,"Selamat pagi, saya bekerja di salah satu perusahaan penerbangan sebagai pramugari. Saya dipaksa untuk melakukan hubungan badan oleh direktur utamanya jika tidak ingin dipecat. Saya akhirnya dipecat sekarang. Tapi saya ingin melaporkan hal ini karena banyak teman-teman saya yang terjebak disana",High
+131,Seksual,Di jalan depan gang saya banyak orang yang mengeluhkan adanya begal payudara,High
+132,Fisik,Tetangga saya sekarat dan masuk rumah sakit karena sering dianiaya suaminya,High
+133,Seksual,Pada saat pulang dari kantor saya diperkosa oleh segerombolan orang tidak di kenal di dekat jalan flamboyan nomor x mohon tindakannya,High
+134,Psikis,Suami saya sering merendahkan saya di depan koleganya. Ia juga sedang dekat dengan wanita lain,Low
+135,Fisik,"Kemarin saya melihat tetangga saya membunuh istrinya dengan pistol. Mayatnya disembunyikan di belakang rumah, saya sangat takut mau cerita ke siapa. Semoga bisa segera ditangani",High
+136,Fisik,"Suami saya sering berjudi dan melakukan kekerasan fisik seperti memukul badan dan tangan kaki saya, hingga pernah suatu ketika tangan saya patah.",High
+137,Fisik,"Saya menikah sirih dengan lelaki yang kasar, dengan seenaknya ia melakukan kekerasan pada saya",High
+138,Seksual,Sekolah beserta asramanya sering melakukan kekerasan seksual oleh staff kepada murid didiknya,High
+139,Fisik,"Aku kurus, jarang dikasih makan dan sering dianiaya ibu kalau ngga dapet ranking",High
+140,Seksual,Ayah saya memaksa saya untuk memenuhi nafsu birahinya jika tidak mau saya tidak diperbolehkan untuk berangkat sekolah,High
+141,Psikis,"Tetangga saya benci sekali dengan anaknya. Dia ga segan-segan untuk mukul atau ngata-ngatain anaknya babi, anjing, monyet, dan segala umpatan binatang lainnya",Low
+142,Seksual,"Saat saya pulang les, saya bertemu dengan begal bokong. Saya malu sekali",Low
+143,Fisik,Suami saya mengancam akan membunuh saya jika tidak mengikuti perintahnya yang padahal sepele. Dia sangat kejam dan suka memukul,High
+144,Psikis,"Di kalangan ibu-ibu beredar gosip bahwa saya adalah istri simpanan. Saya tidak tahu bagaimana cara mengatasinya, setiap hari saya stres dan suami saya jadi percaya oleh gosip tersebut",Low
+145,trafficking,"Saya ketua RT di desa X ingin melaporkan adanya perdagangan manusia di daerah saya, banyak korban yang meminta untuk dipulangkan dan saya butuh bantuan",High
+146,penelantaran,tetangga saya menelantarkan anaknya ke jalanan di kota x,High
+147,Fisik,"Anak saya ditahan oleh bapaknya dan tidak boleh bertemu dengan saya. Selama ia bersama dengan bapaknya, ia selalu dianiaya hingga sering masuk ke rumah sakit",High
+148,Fisik,Suami saya orangnya sangat bengis. Dia tanpa segan bisa menyakiti saya dengan pisau,High
+149,Seksual,"Saya ingin melaporkan tetangga saya yang telah melakukan tindak kekerasan seksual terhadap anak saya, anak saya dipaksa dan disetubuhi sampai mengalami gangguan mental. Saya meminta keadilan",High
+150,Psikis,Ayah aku suka ngebentak dan ibu aku juga sama,Low
+151,Psikis,Saya sangat ketakutan jika bertemu dengan guru di sekolah. Dia pernah mencium saya secara tiba-tiba. Padahal kami berbeda 10 tahun,High
+152,Fisik,"Di sekolah X, tempat anak saya sekolah, menghukum anak didiknya dengan menyiram air kotoran. Tolong segera diusut",Low
+153,Fisik,Saya yatim piatu dan tinggal dengan om sekarang. Tapi om saya sering memukul saya,High
+154,Fisik,"Tanteku tinggal di rumahku sekarang. Kalau aku ngga nurutin suruhan dia, dia pasti mukul aku pakai tangan",High
+155,Psikis,"Ibu aku bipolar dan suka ngga stabil emosinya. Aku masih SMP dan sering merasa ngga berharga di depannya, soalnya ibu sering ngatain aku anak ngga berguna. Aku sedih banget.",Low
+156,Fisik,Ayah saya sering melakukan kekerasan fisik dan verbal kepada ibu.. ibu saya sampai punya gangguan mental,High
+157,Seksual,pacar saya memaksa saya untuk berhubungan badan dengannya jika tidak mau saya diancam akan ditinggalkan,High
+158,Psikis,"Saya takut dengan bapak saya. Dia selalu memiliki tatapan merendahkan setiap bertemu saya. Setelah saya telusuri, ternyata saya bukanlah anak kandungnya. Saya adalah anak diluar hamil ibu dengan laki-laki lain.",Low
+159,Fisik,"Ibu saya selalu mendapatkan kekerasan dari saudara laki-lakinya, tapi tidak ada yang berani melawan",High
+160,Psikis,Saya dihamili pacar dan sekarang sudah melahirkan anak kembar. Tapi pacar saya tidak mau bertanggung jawab dan kabur. Padahal saya masih sekolah SMK,High
+161,Fisik,"Kenalan saya berumur 12 tahun telah dihamili oleh seorang laki-laki, tapi laki-laki tersebut tidak mau mengaku sedangkan kenalan saya mengadu pada orang tuanya.",Low
+162,penelantaran,saya menemukan sekelompk anak yang ditinggalkan orangtuanya di daerah x,High
+163,Seksual,Dosen di kampus saya suka mengancam saya melakukan perilaku seksual jika tidak ingin mendapatkan nilai D,High
+164,Seksual,Saya diperkosa oleh teman seangkatan saya. Awalnya dia bilang mau menginap karena tidak memiliki tempat tinggal. Saya izinkan dia menginap di rumah saya. Tapi saat malam tiba-tiba dia masuk ke kamar saya dan mulai melaksanakan aksinya. Saya marah besar dan merasa sangat malu dan terkhianati.,High
+165,Seksual,"Selamat pagi, saya ingin melaporkan kejadian pemerkosaan yang dialami oleh teman saya selama mengikuti kegiatan KKN di desa X dan butuh bantuan psikolog klinis untuk segera dilakukan konseling. terimakasih.",High
+166,Fisik,Ayah kerapkali melakukan penganiayaan terhadap ibu,High
+167,Psikis,"Suami saya sering mengatai saya anjing, babi, monyet dan segala ucapan kasar lainnya",Low
+168,Fisik,Ayah sering memukul bunda dengan pentungan sampai berdarah,High
+169,Psikis,Saya sering disebut dengan sebutan binatang oleh orang tua saya.,Low
+170,Psikis,"Karena pengaruh kantor, suami saya jadi sering mabuk dan mengatai saya dengan umpatan yang kasar",Low
+171,Seksual,Saya perempuan dan kolega saya juga perempuan. Dia sangat sinting. Saya dan dia sedang menginap di hotel untuk keperluan bisnis. Tapi tiba tiba tangan saya diikat dan tubuh saya mulai dia gerayangi. Saya snagat jijik padanya,High
+172,Seksual,Ada pedofil yg mengincar anak tk di kampung sy. Keberadaannya sgt meresahkan,High
+173,Psikis,Terdapat fitnah di kalangan tetangga saya yang mengatakan saya hamil diluar nikah. Saya tidak berani dan tidak tau cara mengatasi fitnah yang tidak benar tersebut,Low
+174,Seksual,"selamat pagi, saya ingin melaporkan pemerkosaaan yang dialami oleh teman saya dan sekarang teman saya mengalami trauma dan butuh bantuan segera. mohon ditindak lanjuti terimakasih",High
+175,penelantaran,pada saat saya ingin berangkat ke kantor saya melihat ada kardus mencurigakan di depan rumah saya dan pada saat saya cek di dalam kardus tersbut ada seorang anak bayi dengan selembar surat,Low
+176,penelantaran,saya mendengar suara pada saat ingin membuang sampah dan ternyata ada bayi di dalam sebuah kardus,Low
+177,Seksual,Bapak saya pernah melakukan pencabulan pada anak tetangga saat usianya 6 tahun,High
+178,Fisik,"Kak saya berumur 9 tahun, hidup di tengah-tengah keluarga temperamental yang selalu memukul dan menganiaya saya untuk melepaskan emosinya.",High
+179,penelantaran,"sekarang aku lagi di rumah sendirian, papa dan mama udah gak pulang selama tiga hari dan gaada kabar sama sekali",High
+180,Seksual,Ibu saya hingga sekarang tetap diam karena kasus pemerkosaan yang ia alami saat masih remaja,High
+181,Fisik,"Suami saya sering menusuk saya dengan pisau. Saya depresi, sudah berkali-kali masuk rumah sakit",High
+182,Seksual,"Saat naik kereta dada saya diremas oleh seorang pria yang menggunakan masker, topi hotam, dan jaket hoodie berwarna abu-abu",Low
+183,Psikis,Aku pergi ke sekolah J kemarin dan ngeliat ada bullying pada seorang anak sekolah yang memiliki rambut keriting,Low
+184,Seksual,Pacar saya pernah memperkosa saya. Sekarang saya sedang hamil bayi kembar dan dia tidak mau bertanggung jawab,High
+185,penelantaran,Ayah saya kerjaanya setiap hari hanya mabok-mabokan dan berjudi dan saya harus bekerja menanggung hidupnya,High
+186,Seksual,Pacar saya mengancam akan menyebarkan foto-foto saya tanpa busana jika melaporkan tindakan kasarnya selama ini ke polisi,High
+187,Seksual,Kemarin saya melihat sekelompok anak yang melecehkan seorang wanita. Padahal wanita tersebut menggunakan pakaian serba tertutup,Low
+188,Psikis,Ayah aku bipolar dan suka membuat ibu merasa tidak berguna. Dia sering memaki ibu hanya berguna sebagai pembantu dan pemuas nafsu saja. Ibuku sangat sedih hingga menangis setiap hari.,Low
+189,Psikis,"Suami saya adalah WNA, dan ketika ia tinggal di Indonesia, saya tidak merasa seperti istrinya. Saya hanya melakukan tugas sebagai istri dan apapun yang saya lakukan akan ditentang jika tidak sesuai dengan keinginannya.",Low
+190,Seksual,"Saya sebagai orang tua sangat merasa hancur. Anak saya kemarin sore hilang dan setelah saya selidiki, dia diperkosa oleh tetangga jauh saya yang sudah tua. Saya sangat hancur pak. Anak saya juga mengalami trauma. Padahal dia masih SMP, masa depannya masih jauh di depan",High
+191,Fisik,"Mertua saya suka bermain fisik seperti menampar, memukul, menendang saya ketika beliau sedang emosi.",High
+192,Fisik,Kepala saya rasanya mau pecah mendengar pertengkaran hebat dari pasutri sebelah rumah.masalahnya mereka mulai mengganggu warga dengan suara bantingan benda tumpul,Low
+193,Seksual,tolong tetangga saya saat ini sedang diperkosa oleh sekelompok orang tidak dikenal dan saya takut sekali untuk membantu lokasi saya sekarang ada di daerah x,High
+194,Psikis,"Saya melihat kejadian kekerasan verbal pada anak di khalayak publik. Setelah saya telusuri, ternyata dia adalah tetangga saya. Rumahnya berada di XYZ",Low
+195,Fisik,"Pacar saya sering main tangan sama saya. Sebenarnya sekarang udah putus, tapi dia masih sering meneror saya. Saya mau lepas dari dia",Low
+196,Fisik,Suami saya seringkali main tangan hingga dilihat oleh anak. Saya seringkali terpikirkan untuk bunuh diri tapi saya punya tanggung jawab terhadap anak,High
+197,Psikis,Anak saya dipermalukan dan direndahkan oleh guru di sekolah Y,Low
+198,Seksual,ANAK SAYA DIBIUS DAN DISURUH BERHUBUNGAN INTIM DENGAN TETANGGA SAYA YANG BEJAT,High
+199,Fisik,Suami saya suka bermain tangan,High
+200,Seksual,"Pas itu saya pergi keluar rumah untuk bertemu dengan pacar. Setelah pulang ngedate, saya tiba-tiba dikelilingi orang dan dibekam mulutnya, habis itu saya diperkosa ramai-ramai. Saya sangat trauma dan tidak tau harus gimana untuk menghilangkan rasa ketakutan ini",High
+201,Fisik,Di puskesmas saya menemukan orang yang semena-mena dalam bekerja. Ia sangat kasar pada perempuan,High
+202,Fisik,Anak saya suka dijewer oleh gurunya,Low
+203,Fisik,Ibu suka memukul ayah dengan benda tumpul,High
+204,Seksual,Saya adalah pramugari di perusahaan Z. Saya sering diancam akan dipecat jika tidak memuaskan nafsu para dirut. Saya sangat takut,High
+205,penelantaran,Aku saat ini hanya bisa makan satu kali sehari karena ditinggal sendirian di rumah dan ibu tidak pernah pulang kembali ke rumah,High
+206,Seksual,Om saya melakukan pencabulan saat saya berumur 14 tahun,High
+207,Seksual,"Saat mengikuti program KKN, teman saya memaksa saya dan saya disetubuhi malam itu",High
+208,Psikis,"Saya dan suami sudah bercerai, namun saya selalu dikata-katai dan dimaki-maki setiap hari. Saya ingin lepas darinya",Low
+209,penelantaran,Pagi tadi di jalanan X saya melihat anak yang kebingungan dan setleah saya tanya dia ditinggal pergi oleh orangtuanya,High
+210,Psikis,Kakak tiri saya sering memaksa saya melakukan hal yang dia inginkan. Dia sering memfitnah dan mempermalukan saya di depan keluarga besar,High
+211,Seksual,"Selamat malam, tolong bantu saya mendapatkan keadilan atas kekerasan seksual yang dilakukan oleh suami saya terhadap pembantu saya",High
+212,Seksual,"Saya dipaksa menikah oleh orangtua saya dengan dalih membantu ekonomi padahal saya masih belum cukup umur, tolong saya.",High
+213,Psikis,"Saya gendut dan tidak menarik. Saya sering dibully karena itu, mereka merendahkan saya setiap saya datang ke sekolah",Low
+214,Seksual,"Daerah rumah saya rawan dengan pedofil. Mereka mengincar anak kecil dan memaksa mereka untuk ikut ke dalam mobil, membawa mereka ke suatu tempat asing, lalu diperkosa",High
+215,penelantaran,saya ingin melapor bahwa sudah satu bulan anak tetangga saya menumpang dan tidak ada kabar dari orangtua ataupun saudaranya,High
+216,Psikis,Anak saya memiliki kepercayaan diri yang rendah karena sering dibully oleh teman-temannya. Dia adalah anak berkebutuhan khusus. Dia sangat pendiam,Low
+217,Seksual,Tolong bantu adik saya menjadi korban pemerkosaan di sekolahnya. adik saya diperkosa oleh gurunya yang biadab.,High
+218,Fisik,Tante saya sering memukul sepupu saya ketika sedang emosi,Low
+219,Psikis,Tetangga saya sering marah-marah setiap malam karena percekcokan. Sering kali sang istri dikatai  dengan kata-kata kasar.,Low
+220,Seksual,"Di pekerjaan saya, saya selalu diancam akan dipecat jika tidak melakukan hubungan badan dengan boss",High
+221,Psikis,Aku benci banget sama ibu yang kalo lagi marah suka ngata-ngatain aku pake ucapan kasar.,Low
+222,Seksual,"Selamat malam, saya ingin melaporkan bahwa anak saya baru saja mengalami pelecehan oleh teman-temannya. Bajunya tiba-tiba ditarik dan dirobek, celana dalamnya ditari dan ditampar ke muka anak saya. Anak saya sangat trauma sekarang",Low
+223,Psikis,Suami saya suka mengatai saya goblok,Low
+224,penelantaran,Anak dari bapak x yang suka minum minuman keras dilarang untuk bersekolah dan harus bekerja oleh bapaknya,High
+225,Seksual,Saya ingin melaporkan kejadian pemerkosaan yang dialami oleh tante saya dan butuh ditangani segera karena hingga detik ini mengalami ganggua mental,High
+226,Seksual,Saya pergi keluar rumah menggunakan baju longgar dan tiba-tiba ada orang masturbasi di depan saya. Saya sangat takut dan malu,Low
+227,Fisik,Tetangga saya jahat banget. Dia suka nyiram anaknya pake air panas,High
+228,Fisik,Aku capek sama kedua orang tua aku. Mereka setiap hari selalu main tangan sama aku kalau emosi,High
+229,Psikis,Kemarin sore saya bertemu dengan anak laki-laki yang mengatai ibunya dengan kata-kata yang sangat kasar yang tidak pantas diucapkan.,Low
+230,Fisik,"Kakak saya sering melindungi saya ketika ibu sedang emosi. Dia sering ditonjok, ditendang hingga memar-memar",High
+231,Seksual,"Orang tua saya bekerja dan setiap hari saya sekolah. Adik saya masih TK kadang suka diasuh oleh om saya. Pernah suatu ketika saat saya pulang lebih cepat, saya melihat perilaku biadab om saya. Adik saya dipaksa masturbasi di depan om saya. saya sangat marah hingga tidak bisa berkata-kata",High
+232,Seksual,Pacar saya memanfaatkan saya untuk memuaskan birahinya dengan mengancam akan menunjukkan video rekaman saya dengan dia,High
+233,Psikis,Papa saya sering keluar rumah untuk judi karena tidak suka dengan saya. Saya telah melakukan tindakan asusila dan papa saya sangat marah karena hal itu,Low
+234,Seksual,"Selamat siang, saya ingin melaporkan tindak kekerasan seksual yang dilakukan oleh kakak saya terhadap pacarnya yang masih di bawah umur",High
+235,Fisik,Saya dilarang ketemu anak saya oleh mantan suami. Saya cerai karena adanya KDRT. Anak saya sering dipukuli oleh mantan suami saya ini,High
+236,Fisik,Anak saya sedang pulang sekolah tiba-tiba terkena celurit dari tawuran sekolah. Sekarang keadaannya sedang koma,High
+237,Psikis,Aku gasuka sama temen sebangku aku yang ngomongnya kasar dan cenderung malu-maluin aku karena nyebar rahasia aku,Low
+238,Seksual,"Adik laki laki saya trauma tinggal di asrama laki-laki, dia sedang tidur tiba-tiba disodomi oleh temannya yang laki laki. Bokong adik saya berdarah sampai harus dilarikan ke rumah sakit",High
+239,Psikis,"Saya selalu dimanfaatkan teman karena keluarga saya dari orang kaya, Ketika saya tidak mau memberikan uang pada mereka, mereka mengancam tidak mau berteman lagi dengan saya. Saya takut tidak punya teman",Low
+240,Fisik,Mertua saya sering menampar dan melakukan kekerasan fisik pada saya. Mungkin karena mereka masih belum bisa menerima saya sebagai mantunya. Tapi saya capek jika seperti ini terus,Low
+241,Psikis,Sahabat saya telah mendapat penganiayaan hingga mentalnya terganggu. Ia harus sering pergi ke psikiater karena adanya KDRT oleh suaminya,High
+242,Psikis,Suami saya suka berpergian tanpa kejelasan dan tiba-tiba pulang ingin menceraikan saya,Low
+243,Eksploitasi,Ibu saya menyuruh saya untuk mengamen di jalanan dan menyetorkan uangnya setiap hari namun saya hanya diberi makan satu kali,High
+244,Psikis,"Ibu baru saja meninggal 2 hari lalu, tapi bapak tidak mengurusi saya dan bahkan mencari wanita lain di luar. Saya sangat sakit melihatnya. Setiap hari setelah pualng bekerja, papa sangat emosi pada saya karena mengingatkan pada mama dan mulai mengatai saya anak setan",High
+245,Psikis,Jadi aku pernah hamil saat SMP dan melakukan aborsi. Ibu aku sangat marah dan suka mengungkit-ungkit hal tersebut padahal aku sudah mengaku menyesal. Dia juga suka cerita ke tetangga. Sakit sekali rasanya. Aku gak bisa ngelawan.,High
+246,penelantaran,ibu saya meninggalkan saya di rumah sendirian dan tidak pernah kembali,High
+247,penelantaran,tolong aku udah tiga bulan di jalanan semenjak ditinggalin sama ibu aku,High
+248,Seksual,"Saya sedang merantau dan tinggal sendirian di jakarta. ketika saya sakit, guru saya datang menjenguk dan tiba tiba mencium saya. Saya mendorongnya dan dia pergi. saya sangat ketakutan",High
+249,Fisik,Adik saya albino seringkali dibully oleh teman-temannya. Badannya sering dioleskan balsam oleh teman-temannya,Low
+250,Fisik,"Sekarang terbukti bahwa suami saya menganiaya saya dan anak dengan balok. Kepala, leher, dan semua anggota tubuh kami dipukul hingga pernah kaki saya patah. Saya merasa tidak aman dengan ini",High
+251,Psikis,Tutur kata suami baru saya sangat buruk terhadap anak saya dengan suami saya yang sebelumnya. Padahal anak saya ini masih kelas 2 SD,Low
+252,Psikis,Suami saya sering membatasi saya berpergian,Low
+253,Fisik,Ibu sering sekali memukuli saya dengan pentungan dan barang-barang tumpul. Kulit saya sampai memar,High
+254,Psikis,Papa saya suka menyuarakan isi kepalanya tapi kerap kali dengan kata-kata yang kasar,Low
+255,Psikis,"Sama sekali tidak terpikirkan oleh saya bahwa suami saya berselingkuh dan ketika ia pulang kerumah, dia mengancam akan membunuh saya jika saya memberitahukannya kepada ibunya",High
+256,Fisik,"Beberapa hari lalu ada kasus tetangga yang ketahuan selingkuh, dan istrinya langsung membunuh selingkuhan suaminya dengan pisau",High
+257,Fisik,"Ayah suka mukulin ibu kalau lagi emosi, parah sekali dampaknya. Ibu sampai masuk rumah sakit.",High
+258,Fisik,Ibu saya sering memukul saya kalau sedang emosi,High
+259,Seksual,"Sejak kecil, adik laki-laki saya pernah disodomi saat berada di asrama laki-laki. Sekarang dia sangat ketakutan dan menjadi penyendiri",High
+260,Fisik,Anak tetangga saya lahir tidak normal dan sering dipukuli temannya sampai pingsan,High
+261,Psikis,Saya diasuh oleh tante. Dia sangat benci pada saya karena saya dianggap beban. Tidak jarang dia suka mengatai saya anak sial,Low
+262,Seksual,MENTAL ANAK SAYA HANCUR KARENA DIPERKOSA OLEH STAFF SEKOLAH. DIA MENJADI PENDIAM DAN SELALU MENGURUNG DIRI. MOHON USUT KASUS INI!,High
+263,Fisik,"Kemarin saya bertengkar dengan suami, dia menjambak rambut dan mendorong kepala saya ke tembok hingga berdarah",High
+264,Psikis,"Sejumlah turis menginap di tempat hotel saya bekerja, namun mereka mendapatkan perlakuan rasis dikata-katai karena warna kulit oleh warga setempat",Low
+265,Fisik,Bunda suka ngelindungin aku kalau ayah lagi emosi. Biasanya ayah bakal main fisik kayak mukul aku,High
+266,penelantaran,Saya menemukan anak bayi di tempat pembuangan sampah X dengan keadaan kotor dan sakit,Low
+267,Fisik,Anak saya sering dianiaya sama anak-anak sekampung. Saya tidak bisa menolong karena daya kerja,High
+268,Fisik,Beberapa bulan lalu anak saya dipukul hingga benjol dan berdarah oleh tetangga,High
+269,Fisik,ayah enteng banget nendang saya kalau dia lagi emosi,High
+270,Seksual,"Selamat pagi, saya ingin melaporkan kejadian yang dialami oleh saya selama magang di kantor X. saya diperkosa oleh atasan saya dan diancam menggunakan video rekaman yang dia buat",High
+271,Fisik,Mama suka banget mukulin aku pakai pentungan baseball kalau nilai sekolah aku jelek. Badanku sampai memar,High
+272,Psikis,Saya sering dimaki-maki ibu saya jika tidak melaksanakan pekerjaan dengan benar. Ia juga suka merendahkan saya,Low
+273,Seksual,"Saya cek ke dokter kandungan kemarin. Tapi dokter kandungannya tiba-tiba masturbasi setelah men-check tubuh saya. Saya merasa takut dan tidak nyaman. Sungguh saya trauma, semoga dokter tersebut dipecat dan kasus ini segera diusut",High
+274,Psikis,Ayah saya sering memanggil saya anak setan. Saya sangat sakit hati,Low
+275,Psikis,Aku stress tinggal bareng ayah dan ibu. Mereka kalau ngomong suka ngga pake perasaan. Aku mau kabur dari rumah,Low
+276,Seksual,Sungguh tidak masuk akal anak saya dihamili oleh tetangga saya,High
+277,Seksual,Sekolah saya sering terjadi kasus pemerkosaan antara guru dan muridnya. Saya sebagai anak baru menjadi takut untuk melanjutkan sekolah disitu. Buktinya sudah banyak soalnya,High
+278,Seksual,Dulu sekali saya pernah dilecehkan oleh orang tidak dikenal. Sampai sekarang saya masih takut dan tidak berani bersosialisasi dengan laki-laki,High
+279,penelantaran,Tetangga saya meninggalkan bayinya di depan rumah saya dan tidak perhan terlihat lagi,Low
+280,Seksual,Kakak perempuan saya mengalami kekerasan seksual oleh teman-temannya saat dia lengah tertidur. Awalnya mereka mengindap di hotel. Lalu mereka melakukan aksinya tanpa sepengetahuan kakak saya,High
+281,Seksual,"Selamat sore, saya ingin melaporkan tindakan yang dilakukan oleh dosen saya yang mengancam tidak akan memberikan nilai tugas akhir jika tidak mau melayani nafsu birahinya",High
+282,Psikis,Tetangga saya memiliki anak laki-laki berumur 10 tahunan yang sangat tidak sopan pada ibunya. Dia menempeleng kepala ibunya dan pernah menginjak kepala ibunya. Sangat tidak hormat pada orang tua,High
+283,Fisik,Ibu saya sering menusuk saya dengan benda tajam di bagian perut. Saya sudah sering bolak-balik rumah sakit,High
+284,Seksual,"Saya pernah camping dari acara sekolah, tapi teman laki-laki saya mulai mendatangi camp perempuan dan menggerayangi badan saya. Saya sangat takut dan tidak bisa bergerak",High
+285,Fisik,Anak saya mengalami kekerasan fisik dan batin dikarenakan membongkar kecurangan USBN dan UNBK di sekolah. Dia dipukuli dan dimaki oleh staff sekolah,High
+286,Seksual,Teman saya kemarin roknya diangkat dengan semena-mena oleh guru,Low
+287,Fisik,"Tetangga saya suami istri sudah bercerai, anaknya diasuh oleh bapaknya. Tapi selama bersama bapaknya, mereka kerap kali mendapat kekerasan fisik. Bapaknya melarang anak-anaknya bertemu dengan ibunya",High
+288,Fisik,Saya baru tahu bahwa anak saya umur 12 tahun berpacaran dengan lelaki berumur 35 tahun. Dia sering mendapat perlakuan fisik,High
+289,Seksual,"Saat saya pulang kerja, ada pria paruh baya yang secara cepat meremas payudara saya. Saya sangat marah dan ingin menangis. Sampai sekarang pun saya masih menangis dan merasa diri saya kotor.",High
+290,Psikis,Suami saya sering merendahkan saya karena saya berasal dari kalangan yang tidak punya,Low
+291,Fisik,Saya minta tolong ada keponakanku d perkosa sama ayahh tirinya tp ibu kandungnya tidak percaya karna kejadiannya tahun yg lalu tp anaknya baru bilang sekarang sama saya. Ibunya juga suka dianiaya,High
+292,penelantaran,"pagi ini di depan rumah, saya menemukan bayi yang menangis di dalam sebuah kotak kardus ",Low
+293,Fisik,Sering sekali saya lihat ibu-ibu pengemis dengan anaknya yang tidur di dekat rumah. Tidak mungkin kalau anaknya tidur pulas seperti itu berjam-jam. Saya memiliki dugaan kalau anak itu dibius oleh ibunya,Low
+294,Fisik,"Saya sudah menjadi janda, mantan suami saya sampai sekarang masih suka menganiaya saya",High
+295,Fisik,kakak saya memukuli saya hingga lebam setiap dia emosi,High
+296,Fisik,Tante saya suka mencubit adik saya,Low
+297,trafficking,Saya mendapatkan informasi bahwa ada usaha ilegal dalam memasarkan pekerja seks komersial di daerah kontruksi Y ,High
+298,penelantaran,"Selamat malam, saya menemukan seorang anak yang dilantarkan oleh orangtuanya di jembatan x dekat kali",High
+299,Seksual,Saya kerapkali diancam oleh guru untuk berhubungan badan jika ingin lulus mata pelajarannya,High
+300,Eksploitasi,setiap hari aku harus keliling jalanan dari pagi sampai sore untuk mengamen dan mengemis karena dipaksa om,High
+301,Seksual,Bibi saya suka memegang-megang adik saya yang perempuan (adik saya sudah SMA) di bagian privasinya. Saya heran padahal bibi saya perempuan tapi kenapa dia melakukan pelecehan itu pada perempuan juga??,Low
+302,Fisik,"Kakak aku nakal banget. Dia suka main tangan sama aku, nampar lah, nyubit lah, mukul lah",Low
+303,Seksual,Malam itu saya men tweet bahwa saya ingin cuddle dan berpelukan dengan seseorang. hanya itu saja. namun ketika bertemu dengan orang yang setuju dengan hal itu. dia malah mengambil kesempatan untuk memperkosa saya. kita berhubungan badan tanpa adanya consent dari saya,High
+304,Seksual,"Kemarin saya pulang sekolah menggunakan motor, tapi tiba-tiba saat menuju rumah, dada saya diraba oleh seseorang yang juga mengendarai motor",High
+305,Seksual,"Kemarin saya dipaksa teman untuk menemaninya mencari kosan di kawasan Bandung. Karena dia teman saya, ya saya temani. Tapi saat kami menginap dalam perjalanan, dia mulai menggrayangi tubuh saya. Saya sangat trauma, padahal teman saya ini perempuan",High
+306,Fisik,Ibu saya sering mengatai saya anak tidak berguna dan melakukan kekerasan pada saya. Seperti menaruh balsem pada bibir saya,Low
+307,Seksual,"Ipar saya ternyata pernah diperkosa oleh sekelompok orang. Itu menyebabkan dia trauma berhubungan badan. Kakak saya frustasi dengannya, bagaimana caranya agar mau melupakan hal tersebut",High
+308,penelantaran,kemarin saya mendapatkan informasi bahwa di rumah x ada anak berkebutuhan khusus yang tidak dirawat dengan baik,High
+309,Fisik,Suami saya sering melakukan kekerasan fisik seperti menendang dan memukul dengan benda keras,High
+310,Seksual,"Saya hanya tinggal bersama ibu sekarang karena ayah saya sudah meninggal. Saat itu saya sedang keluar rumah untuk urusan bisnis, saat pulang di tengah malam, saya melihat ibu saya diperkosa oleh segerombolan orang tidak dikenal. Ibu saya menangis sesenggukan dan saya melapor polisi. Tapi ibu saya sekarang yang awalnya ceria menjadi sangat pendiam",High
+311,Psikis,Orang tua saya sering merendahkan saya di depan tetangga,Low
+312,Seksual,Dosen saya memaksa saya untuk berhubungan intim dengannya agar saya bisa mendapatkan nilai untuk lulus,High
+313,Seksual,Ibu saya menjual saya ke club sebagai PSK. Saya sering mengalami kekerasan seksual disana,High
+314,Seksual,Teman saya sengaja marsturbasi di depan saya. Saya sangat jijik,Low
+315,Fisik,Papa sering nonjok mama sampai wajah mama memar,High
+316,Seksual,Mohon bantu saya melaporkan tindakan yang dilakukan oleh guru saya yang sengaja meraba bagian terlarang tubuh saya dengan ancaman nilai ujian akhir saya tidak diberikan,High
+317,trafficking,"tolong saya untuk bisa kembali ke Indonesia, saat ini saya ada di daerah x dan menjadi korban perdagangan manusia",High
+318,Fisik,Biasanya ibu akan mukul kalau aku ngga berhasil dapet ranking tinggi. Aku juga sering ngga dikasih makan,High
+319,Psikis,Suami saya perkataannya sungguh jahat terhadap anak saya,Low
+320,Psikis,Suami saya sering melakukan kekerasan verbal terhadap ibu saya,Low
+321,Seksual,Saya ingin melaporkan bahwa di sekolah Z ada pemerkosaan yang dilakukan guru pada muridnya,High
+322,Fisik,"Aku ingin bunuh diri rasanya karena setiap hari ayah suka memukul, menendang, dan lainnya setiap pulang kerja",High
+323,Fisik,"Kenalan saya sering menampar, menjambak, memukul anaknya dengan kasar kalau anaknya nakal",High
+324,Seksual,Ibu saya melihat pencabulan pada anak di bawah umur di pasar,High
+325,trafficking,"tolong saya, bapak kalah judi dan akhirnya menjual saya ke bandar judi.",High
+326,Psikis,Saya seringkali dibully oleh teman-teman karena saya memiliki keterbelakangan mental,High
+327,Seksual,Saya dipaksa oleh bapak untuk berhubungan badan dan diancam untuk dibunuh jika tidak mau,High
+328,Seksual,Saya ingin melapor bahwa perusahaan X sangat sinting. Para atasannya mengiming-imingi gaji tinggi dan mengancam akan memecat karyawan perempuannya jika tidak mau melakukan hubungan intim dengan mereka,High
+329,Seksual,Teman saya bekerja di cafe A sebagai barista. Atasannya sering memperkosanya dan mengancam akan membunuhnya jika tidak memenuhi nafsu sang atasan,High
+330,Psikis,Dua hari lalu sekolah A melakukan tindak kekerasan verbal kepada anak didiknya,Low
+331,Psikis,Terjadi perpeloncoan di TK A. Mereka disuruh memakai atribut-atribut aneh. Hukumannya adalah dijemur dan dipertontonkan di depan sekolah,Low
+332,Psikis,"Temen-temen aku ngerendahin aku karena aku tuli. Padahal aku udah make alat bantu di telinga. Mereka ngetawain aku karena pas aku nyoba ngomong, intonasinya menurut mereka aneh",Low
+333,Psikis,"Karena pacar saya populer dan tampan, saya sering dibully oleh perempuan-perempuan di kelas. Mereka menyuruh saya putus dan mulai merendahkan saya",High
+334,Fisik,Saya sering dipukuli ayah ketika saya menasehatinya tentang berjudi,High
+335,penelantaran,orangtua saya suatu hari meninggalkan saya sendirian di bawah jembatan,High
+336,Fisik,Kakak saya sering melakukan kekerasan fisik pada saya.,Low
+337,Fisik,Staff di institusi X melakukan penganiayaan kepada adik saya hingga adik saya masuk ke rumah sakit dan perlu dirawat hingga sekarang,High
+338,Psikis,"Papa saya pengangguran, dua hari lalu saya pergoki bertemu dengan wanita lain. Di rumah dia sering mengambil uang mama (mama adalah wanita karir) dan mengata-ngatai mama. Mama ingin bercerai namun mama sering diancam",High
+339,Psikis,Aku dikatain goblok dan tidak diberikan makan sama mama. Padahal aku ga buat salah apa-apa. Mama selalu mabuk setiap malam,Low
+340,Fisik,Tetangga saya sering menendang anaknya sebagai bentuk hukuman ketika anaknya berbuat salah,Low
+341,Seksual,"Di sekolah Z, saya menemukan kasus pencabulan oleh guru pada muridnya",High
+342,Fisik,Saya sudah pisah dengan mantan suami karena selalu dianiaya fisik sampai saya trauma. Selama 6 bulan dia selalu meneror untuk membunuh saya. Saya ingin lepas darinya..,High
+343,Fisik,Teman saya sering dibully oleh suatu kelompok karena mereka merasa senang membully orang lain. Mereka sudah melakukan kekerasan fisik dengan benda tumpul,High
+344,Fisik,"Ibu kasar banget sama aku, dia suka main tangan kalo aku nakal",Low
+345,penelantaran,malam ini saat saya mendengar suara tangis seorag bayi di ujung gang dan ternyata benar ada bayi yang ditelantarkan oleh orangtuanya,Low
+346,penelantaran,waktu itu saya mendengar ada suara tangisan bayi di dalam rumah kosong dan pada saat saya cek ada seorang anak  batyi ayng ditinggal di dalam rumah,Low
+347,Fisik,Ayah suka banget mukulin dengan keras kalo aku nakal sedikit. Ga jarang aku ke dokter gara-gara perlakuan ayah,High
+348,Psikis,Ibu saya sering tidak percaya pada saya dan merendahkan kemampuan saya hingga saya sangat ketakutan untuk hidup dan pernah berpikir untuk bunuh diri,High
+349,Psikis,Papa dan Mama suka mengatai saya tai. Hal itu membuat saya tidak aman karena mereka juga tidak terlihat sayang pada saya,Low
+350,Eksploitasi,Saya melihat banyak anak jalanan yang harus berjualan tisu di daerah X dan uangnya harus disetor ke preman setempat,High
+351,Eksploitasi,"tolong saya, saat ini saya dipaksa untuk berjualan dagangan oleh preman di dekat rel kereta x",High
+352,Psikis,"Kakak aku Anak Berkebutuhan Khusus, dia sering  dipermainkan oleh teman sekolahnya dan diketawakan karena keterbataasannya",Low
+353,Seksual,"Mohon bantuannya, keponakan saya dilecehkan oleh gurunya di sekolah dan mengalami trauma",Low
+354,Seksual,anak saya dipaksa dan diperkosa oleh teman-temannya di sekolah dan saya butuh keadilan untuk menuntut mereka,High
+355,Psikis,Saya melihat ada ibu hamil dan anaknya dibentak wanita di gerbong kereta. Mereka meminta kursi di priority seat tapi wanita tersebut malah membentak dan berkata bahwa ia letih,Low
+356,Seksual,Adik saya masih TK baru saja mengalami kekerasan seksual yang dilakukan oleh guru laki-lakinya,High
+357,Psikis,Di sekolah Y menghukum murid-muridnya dengan menggantungkan sepatu di lehernya dan berlari keliling pusat pemerintahan,Low
+358,Seksual,Teman saya yang menginap di rumah saya sungguh kurang ajar. dia telah melecehkan saya. Dia tiba tiba mengendap ke kamar saya dan mulai menyetubuhi saya,High
+359,Psikis,Suami saya setelah pulang kerja biasanya akan membentak saya. Berkata bahwa ia letih. padahal saya di rumah juga capek mengurus anak dan rumah,Low
+360,Fisik,"Omku suka bermain tangan kepadaku jika aku berkunjung ke rumahnya. Alasannya karena dia mabuk. Biasanya dia memukul, menjitak, dan menamparku dengan keras",High
+361,Fisik,"Anak tetangga saya dididik secara tidak manusiawi dengan ibunya, seperti membanting anaknya ke tanah",High
+362,penelantaran,anak tetangga saya ditinggal pergi oleh ayahnya yang terkenal suka judi,High
+363,Psikis,"Beberapa hari lalu di supermarket, saya melihat ada bapak-bapak mencuri. Lalu ada anak SD yang melaporkan hal tersebut. Dia membentak anak SD dan mengancam akan membunuhnya jika semua orang tahu. Anak tersebut terlihat sangat trauma",High
+364,Seksual,"Mohon bantuannya, pembantu di rumah tetangga saya diperkosa oleh majikannya dan diancam akan dipecat jika tidak memenuhi permintaannya",High
+365,Psikis,Keponakan saya dikatai monyet oleh teman-temannya,Low
+366,Psikis,Orang tua saya kerap kali memaksa saya untuk belajar penuh dan tidak akan memberikan makan jika tidak belajar,High
+367,Seksual,Anak sy enggan makan itu knp y.. bnyk bekas merah di tubuhnya jg... dia jg sk diem akhirMedium ini,High
+368,Seksual,Bapak tiri saya sering melakukan pemerkosaan terhadap saya..,High
+369,Seksual,"Di kosan saya terdapat kasus pencurian celana dalam, dan beberapa hari lalu sang pelaku menuliskan surat ingin melakukan hubungan badan dengan saya. Saya sangat takut dan jijik",Low
+370,Fisik,Adik saya albino dan sering mendapatkan kekerasan fisik oleh teman-temannya,High
+371,Seksual,Pada saat melakukan pengakuan dosa di dalam kapel saya dilecehkan oleh romo yang bertugas pada saat itu. Dada saya di raba-raba dan bibir saya dicium,Low
+372,Fisik,Papa sama mama kerap bertengkar tapi main fisik hingga mamah sering lebam lebam,High
+373,Seksual,Teman saya perempuan. Tapi dia suka memegang dada dan bokong saya. Saya merasa tidak nyaman. Ada rumor juga mengatakan bahwa dia tidak lurus,High
+374,Fisik,Ibu aku suka mukulin aku,High
+375,Seksual,ANAK SAYA DIPEGANG PEGANG OLEH TETANGGA. MASALAHNYA TETANGGA SAYA INI MEMEGANG DADA DAN PANTAT ANAK SAYA DENGAN MUKA MESUM,High
+376,Psikis,"Setelah melahirkan, suami saya tidak pernah peduli dengan saya. Ia bilang fisik saya jelek dan ia tidak suka lagi. Sekarang ia pergi dengan wanita lain. Saya sangat stress akan hal ini",Low
+377,Psikis,Perlakuan suami saya sering merendahkan keluarga saya yang berada pada keluarga susah,Low
+378,Psikis,Institusi B sangat mengecewakan. Mereka mempermalukan staffnya di depan khalayak publik dengan menceritakan aib-aib yang mereka punya,Low
+379,Psikis,"Sebelumnya aku pikir ibu ngga kenapa-napa, tapi semenjak ditinggal ayah, ibu jadi semakin emosional dan ngelontarin emosinya ke aku dengan umpatan kasar",Low
+380,Fisik,Saya dan anak saya ditelantarkan oleh suami. Tidak dinafkahi,Low
+381,Seksual,Bapak saya sering melakukan kekerasan seksual pada saya,High
+382,penelantaran,Sudah satu bulan bapak tidak pulang kerumah dan saya sendirian di rumah,High
+383,penelantaran,anak murid saya dilarang pergi ke sekolah oleh orangtuanya dan dipaksa bekerja,High
+384,Eksploitasi,Aku disuruh mengemis sama mama di trotoar setiap hari dari jam sembilan sampe jam lima sore ,Low
+385,Seksual,"Mohon bantuannya, pria ini memaksa saudara saya untuk mememnuhi hasratnya dengan iming-iming akan diberikan pekerjaan",High
+386,Fisik,Anak saya sedang bermain dengan teman-temannya di komplek disiram air comberan yang benuh bakteri oleh tetangga,Low
+387,Fisik,Anak saya dilempar oleh penghapus papan tulis oleh gurunya saat dia berisik,Low
+388,Seksual,Ibu saya sering dipaksa melakukan hubungan badan dengan tetangga. Jika tidak dia bisa diancam dibunuh,High
+389,penelantaran,papaku ninggalin aku di depan gang x dan gapernah balik lagi,High
+390,Seksual,"mohon bantuannya, dosen di kampus Z telah melakukan kekeraasan seksual kepada mahasiswanya dengan mengancam menggunakan nilai akhir semester",High
+391,Fisik,"Saya anak broken home. Sekarang saya tinggal bersama ibu. Saya dituntut untuk memiliki nilai yang sempurna di sekolah karena jika tidak, saya akan dipukul dengan bat baseball oleh ibu saya. Perut saya memar parah, saya sudah berusaha mencoba lapor polisi namun tidak digubris",High
+392,Psikis,Papa saya seringkali menghina saya sebagai anak buangan semenjak mama saya meninggal,Low
+393,Psikis,Anak tentangga saya sering direndahkan oleh tetangga lainnya karena memiliki keterbatasan mental,Low
+394,Psikis,Suami saya sering mengurung saya dan tidak membolehkan saya keluar. Saya kan juga ingin memiliki kehidupan di luar rumah.. Tapi dia selalu melarang dan mengancam saya jika saya berani membantah,High
+395,penelantaran,"Di dekat rel kereta rumah saya ada anak yang kebingungan mencari orangtuanya. setelah ditanya, ternyata dia ditinggalkan oleh ayahnya",High
+396,Fisik,"Adik saya dijebak oleh teman-temannya, dia disuruh pergi untuk beli aksesoris,yang ternyata di dalam aksesorisnya ada narkoba",Low
+397,penelantaran,saat saya sedang berjalan hari ini saya mendengar suara bayi di dekat kali. Setelah saya selidiki ternyata ada seorang anak bayi diatas rak yang mengapung,Low
+398,Seksual,"Pada saat adik saya pulang sekolah, ia tiba-tiba dicegat seorang pria dan pria tersebut langsung melakukan masturbasi. Adik saya menangis dan mengaku trauma",Low
+399,Fisik,Ayah selalu memukuli saya dan ibu jika mabuk. Ia bisa memecahkan botol dan menghantamkannya kepada kami hingga berdarah-darah.,High
+400,Psikis,Kemarin tetangga saya ribut besar dengan suaminya. Suaminya mengata-ngatai istrinya dengan sebutan anjing,Low
+401,Psikis,Keluarga di sebelah rumah saya tidak main-main dalam memarahi anaknya yang masih TK. Mereka suka mengata-ngatai anaknya tanpa dipikirkan terlebih dahulu dampak kedepannya.,Low
+402,Psikis,Suami saya sering mengucapkan kata-kata kasar pada saya dan anak saya. Dia juga sering mengumpat dan mengatai kami,Low
+403,Fisik,Suami saya sering menyiksa saya hingga berdarah,High
+404,Fisik,"Ayahku ini baru meninggal dan ternyata punya istri lain. Dan ternyata ayah pernah menikah dengan wanita lain, pas aku ke rumahnya, aku dan ibu malah ditampar dan dimintai uang",Low
+405,Fisik,Anak tetangga saya pergi ke rumah neneknya karena mengaku sering dianiaya bapaknya di rumah,High
+406,Psikis,Suami saya tidak pernah memberikan saya kasih sayang. Dia sangat bengis dan kata-katanya sungguh kasar,Low
+407,Seksual,"tolong saya, sekarang saya sedang bersembunyi di dalam lemari. Ada gerombolan penjahat yang masuk ke rumah dan sekarang sedang memperkosa ibu saya",High
+408,Seksual,Koko saya pernah mengalami sodom oleh teman-temannya hingga membuat dia trauma,High
+409,Seksual,"Saya pernah ke rumah teman saya. Disana saya tanpa sadar tertidur, lalu om teman saya dengan tiba-tiba mencium bibir saya. Saya tidak berani melapor",Low
+410,Fisik,"Adek saya kelas 6 SD gamau sekolahh, gamau ikut ekskul, gamau bersosialisasi, dia cuma diam aja di rumah. Bagaimana cara membujuknya?",Low
+411,Seksual,Anak saya dipaksa oleh tetangga saya untuk berhubungan badan,High
+412,Psikis,Teman saya adalah anak berkebutuhan khusus. Dia sering dibully baik fisik dan psikis. ,High
+413,Fisik,Aku gatau kenapa ibu suka banget main tangan kalau aku ga dapet nilai yang bagus,Low
+414,Seksual,"Adik laki-laki saya ikut asrama laki-laki di SMP Y, ternyata kakak kelasnya banyak yang mesum dan sering ada kasus sodom disitu. Adik saya jadi ketakutan",High
+415,Psikis,"Kemarin pak X, guru saya di sekolah, mengata-ngatai saya di depan kelas sebagai anak idiot",Low
+416,Seksual,Keluarga saya tak hentinya menenangkan saya setelah saya bicara bahwa saya pernah diperkosa saat sd oleh om. Nsmun sampai sekarang saya masih trauma,High
+417,Eksploitasi,Kakak saya mengancam saya jika tidak mau mengemis hari ini saya akan diusir dari rumah,High
+418,Psikis,Saya melihat seorang anak diancam akan dibunuh oleh pencuri jika aksi jahatnya dilaporkan,High
+419,Seksual,Anak laki-laki saya tidak berani mengakui bahwa dia pernah melecehkan teman sekelasnya,Low
+420,Fisik,Keponakan saya sering dicubit tetangganya,Low
+421,Fisik,Ayah saya dan ibu saya suka bertengkar sambil melempar barang. Saya malu dengan teman-teman kalau lagi ke rumah,High
+422,Seksual,"Saya sering diancam oleh kepala sekolah saya untuk melakukan hubungan badan, jika tidak saya bisa dikeluarkan dari sekolah. Saya tidak punya uang untuk mendaftar di sekolah lain karena di sekolah saya sekarang ini saya dibiayi kepala sekolah",High
+423,Fisik,Saya menemukan seorang guru TK yang katanya mendisiplinkan anak berumur 5 tahun dengan membuka baju dan menyiramkan air kepadanya. Kejadian ini sudah lama terulang. Tolong proses segera,Low
+424,Seksual,"Kemarin aku nemu perempuan diikat dan diperkosa oleh segerombolan orang di bawah jembatan. Aku sangat takut.. Akhirnya perempuan tersebut saya hampiri setelah segerombolan orang itu pergi. Dia merasa sangat trauma. Awalnya dia diiming-imingi pekerjaan, tapi ternyata diculik dan diperkosa. Mohon usut penipu tersebut",High
+425,Seksual,"Saya sering merasa tidak sadarkan diri setiap pulang sekolah dan terbangun di kamar tanpa busana. Setelah saya taruh CCTV di kamar, ternyata ayah tiri saya membius saya dan memperkosa saya",High
+426,Fisik,Ayah saya sering menyiram saya dengan air panas hingga kulit saya melepuh. Dia melakukannya setiap malam karena mabuk,High
+427,Seksual,"Sahabat saya memiliki keterbelakangan mental dan ia dipaksa oleh ayah, adik, dan kakaknya untuk disetubuhi",High
+428,Fisik,ibu sering memukul saya membuat saya lebam-lebam,High
+429,Psikis,"Suamiku sering mengatai aku sebagai istri yang bodoh, dia juga suka pergi tanpa alasan yang jelas. Setelah hari itu, dia sudah tidak memberikan nafkah lagi. Sekarang saya harus mencari uang untuk anak saya",Low
+430,Seksual,Tetangga saya sering mengeluhkan kekerasan seksual yang dilakukan oleh suaminya,High
+431,Seksual,"Omku sangat dekat denganku sejak kecil. Dia memang suka memegangku, mengelus, dan segala kontak fisik lainnya. Tapi sekarang saya sudah kuliah dan dia masih sering melakukan hal itu. Saya merasa tidak aman",High
+432,Psikis,Saya dibully karena tidak mau memberikan jawaban ujian oleh kelompok anak-anak yang jarang belajar. Saya sering diancam setiap pulang sekolah kalau tidak memberikan jawaban,Low
+433,Psikis,Beberapa minggu lalu suami saya mengancam akan membunuh saya,High
+434,Seksual,"Setiap pulang sekolah, saya biasa saya melewati gang yang biasa saya lewati. Tapi kemarin saya bertemu dengan begal payudara. Saya merasa sangat malu dan takut. Saya melihat plat nomor motornya dan menemukan bahwa ia adalah tetangga saya. Saya bingung mau lapor kemana supaya dia dihukum seberat beratnya",High
+435,Fisik,"Suami saya menampar keponakan yang berusia 6 tahun, sampai sekarang trauma dan tidak mau ke rumah lagi..",Low
+436,Fisik,"Pacar saya telah menghamili saya, namun dia tidak mau bertanggung jawab",Low
+437,penelantaran,Saya ingin melaporkan anak tetangga saya ditelantarkan oleh ayahnya yang merupakan pengguna narkoba,High
+438,Fisik,"Ibu sering banget mukul kepala aku ke tembok, aku ke rumah sakit sama tante dan didiagnisos gegar otak",High
+439,Psikis,"Suami saya seperti tidak menyayangi saya. Ketika saya tanya untuk apa saya menjadi istrinya, dia bilang saya adalah pembantu",Low
+440,Seksual,Saya sering dilecehkan oleh teman laki-laki saya. Dia bilang bercanda tapi saya marah sekali. Mentang-mentang mereka teman saya mereka pikir bisa dengan seenaknya memegang tubuh saya?,Low
+441,Fisik,Perginya ibu dar rumah menyebabkan ayah melampiarskan emosinya dengan tangan pada saya,High
+442,Seksual,Kakak saya dipaksa ibu saya untuk sering melakukan hubungan intim dengan bossnya agar ibu saya naik pangkat,High
+443,Fisik,Sekolah X suka banget nyiramin air comberan ke anak didiknya sebagai hukuman.,Low
+444,Fisik,"Anak saya dipisahkan oleh saya dan sekarang jatuh pada asuhan mantan istri saya. Tapi selama ini, mantan istri saya tidak mengurus anak saya dengan benar",Low
+445,Fisik,Kemarin di taman saya menemukan tetangga yang sedang memukuli anak-anak,High
+446,Seksual,"Saat itu saya sedang masuk ke ruangan meeting bos saya,tapi tiba tiba ruangan tersebut dikunci dan saya mulai dilemahkan dengan bius. Saya tidak sadarkan diri dan ketika sadar saya sudah berada dalam keadaan tanpa busana. Saya benci sekali dengannya tapi saya juga takut untuk mengkonfrontasinya",High
+447,Seksual,"Ketika pulang ngantor, tiba tiba dari arah belakang saya mendapati diri saya dipegang dadanya oleh orang kurang ajar",High
+448,Psikis,Suami saya sering pergi ke diskotik dan pulang mabuk. Saya sering dikatai oleh kata-kata kasar olehnya.,Low
+449,Seksual,Saat pulang sekolah saya dipanggil ke ruang kepala sekolah dan dilecehkan dengan memegang dada dan bagian bawah tubuh saya,Low
+450,Seksual,"Saya sering dilecehkan teman saya. yang paling parah adalah kemarin. Karena udah sering dilecehkan, saya akhirnya diculik dan diperkosa",High
+451,Fisik,Anak kenalan aku sering dibanting sama ibunya ke tanah. Sering ke rumah sakit anaknya karena mulai ada keanehan di tulangnya,High
+452,Fisik,"Kakak sudah menikah, dan ia sering mengalami kekerasan dalam rumah tangga dan sering masuk ke rumah sakit. Ia juga menjadi pasien di rumah sakit jiwa sekarang karena mentalnya terganggu",High
+453,Fisik,Papa sering banget mukulin mama. Sering juga menganiaya pake senjata tajam,High
+454,trafficking,"tolong, saat ini saya sedang bersembunyi di pelabuhan x di bagian sebelah barat saya akan dijual oleh bapak y",High
+455,Psikis,Menantu saya sangat tidak menghargai saya sebagai menantu. Mungkin karena anak pertamanya saya nikahi. Dia sering mengatai saya mantu tidak berguna dan berucap kata-kata kasar,Low
+456,Fisik,Papa saya sering menyakiti mama dengan melakukan kekerasan fisik,High
+457,Psikis,"Kemarin sore aku pergi ke taman dan lihat pembullyian anak SD oleh suatu geng. Ia dipermalukan bersama teman-temannya. Saya akhirnya mencoba melindunginya, tapi saya takut hal tersebut akan terjadi kembali.",High
+458,Eksploitasi,Bapak saya menyuruh saya mengamen dan mengasong barang dari pagi sampai sore,High
+459,penelantaran,tolong saya dibuang oleh ibu saya ke jalanan,High
+460,trafficking,Kemarin malam saya melihat ada sekelompok orang yang dimasukkan ke kontainer di pelabuhan x,High
+461,Fisik,Anak saya suka dicubit kakak tirinya,Low
+462,Fisik,Ibu saya sering kehilangan kesadaran kalau dianiaya ayah yang lagi emosi,High
+463,Fisik,"Saya mengalami kekerasan dalam rumah tangga. Suami saya mencuri seluruh tabungan saya untuk berjudi. Ketika pulang, ia selalu dalam keadaan mabuk dan mulai melakukan kekerasan fisik pada saya",High
+464,Fisik,"Papa suka banget menganiaya aku, akhirnya kemarin aku sama om ke rumah sakit, ternyata tulang ekor aku bermasalah",High
+465,Seksual,"Siang,, pak, bu, tolong, anak saya habis diperkosa oleh tetangga saya. Anak saya padahal masih dibawah umur.. Sekarang dia tidak mau makan dan melanjutkan aktivitas. Setiap hari hanya bisa menangis",High
+466,Seksual,"Saya melihat adanya kekerasan seksual di bawah jembatan pagi tadi. Saat ditelusuri, si perempuan ini ternyata dibius oleh teman sekampusnya",High
+467,Psikis,Ayah tiri suka mengatai ibu babi dan saya tidak nyaman ketika dia mengatakannya,Low
+468,Seksual,Ibu saya belum bisa mengembalikan uang dan akhirnya diperkosa oleh tetangga saya secara paksa ,High
+469,Seksual,"Anak tiri saya sangat pendiam. Saat saya tanya lebih dalam, ternyata ia pernah dilecehkan dan diperkosa om-om di dekat rumahnya",High
+470,Psikis,Suami saya mengurung saya di dalam rumah membuat saya tidak berdaya dalam melakukan apapun,High
+471,Psikis,Aku sering banget dirasisin temen temen karena kulitnya hitam,Low
+472,Seksual,Teman saya sering dilecehkan karena pakaiannya yang terlalu terbuka,Low
+473,Fisik,Istri saya bertengkar dengan tetangga tapi anak saya yang jadi korban terkena lemparan batu,High
+474,Psikis,"Ayah aku suka banget marahin aku dengan kata kasar, emang ngga main tangan sih, tapi kata-katanya nyakitin banget",Low
+475,Fisik,"Aku ingin bunuh diri, ibu selalu menganiaya aku pakai senjata tajam. Kulit aku sering disayat. Aku depresi",High
+476,Fisik,Badan saya selalu dipukul dengan benda keras oleh anak tiri saya.,High
+477,Psikis,Ibu aku suka banget maksa dengan nada yang kasar. Dia ngatain aku ga berguna tapi ngarepin bantuan aku.. Aku benci banget sama ibu,Low
+478,Seksual,Lelaki yang saya nikahi ternyata sering memaksa saya untuk melakukan hubungan badan dengan lelaki lain. Saya merasa dipaksa dan takut,High
+479,Fisik,Anak saya dicubit oleh omnya karena gemas,Low
+480,Psikis,"Ibu saya sering memaksa saya belajar keras, sehingga saat saya pergi ke psikolog, saya didiagnosis memiliki gangguan skizofrenia",High
+481,Seksual,Saya menemukan anak tetangga (perempuan) yang diperkosa setiap malam oleh ketua RT. Saya tidak berani membelanya,High
+482,Seksual,Setiap hari saya dipaksa untuk melayani om saya untuk memenuhi hawa nafsunya,High
+483,Seksual,TOLONG ANAK LAKI LAKI SAYA DISODOMI TEMANNYA DI ASRAMA SEKOLAH.,High
+484,Seksual,Kemarin sore saya melihat seorang wanita dibius dan diperkosa oleh beberapa pria dan dibawa di toilet umum,High
+485,Seksual,Anak tetangga saya saat masih kecil pernah dicabuli oleh staf dari sekolahnya. sekarang ia trauma,High
+486,Seksual,Aku menggunakan pakaian tertutup jika keluar rumah. Tapi segerombolan laki-laki tiba-tiba melecehkan saya karena dada saya yang besar. saya sangat malu dan ingin menangis.,Low
+487,Seksual,"Sehabis pulang kerja kemarin, saya meninggalkan anak sendirian di rumah. Ternyata ada maling masuk dan sedang melakukan pemerkosaan pada anak saya. Saya menjerit dan anak saya menangis. Anak saya sekarang trauma.. mohon diusut",High
+488,Eksploitasi,Tetangga saya menyewakan bayinya untuk dibawa berkeliling oleh para pengemis,Low
+489,trafficking,"Selamat pagi, saya ingin melaporkan adanya aktivitas mencurigakan yang diduga perdagangan orang di daerah saya yang beralamatkan jalan melati nomor sepuluh",High
+490,Seksual,Paman saya suka memasang wajah cabul dan ketika saya tidur saya merasa dia menggerayangi saya,High
+491,Fisik,"kenalan saya sekolah di SMP A, dia terkena bully hingga dipukuli, ditendang, ditampar dan dianiaya kelompoknya",High
+492,Eksploitasi,kemarin saya melihat preman di jalan x saya melihat komplotan preman yang memberikan anak kecil barang asongan untuk dijual,High
+493,Psikis,"Suami saya sering mengatai saya goblok, tolol, biadab, dan lainnya. Karena saya menikah dengan dia dijodohkan, jadi tidak ada cinta diantara kita. Saya merasa tersiksa setiap harinya",Low
+494,Seksual,"Tolong saya, anak saya diperkosa oleh gurunya di sekolah. Dia jadi pendiam dan tidak mau bersosialisasi",High
+495,Psikis,"Ibu saya baru saja menikah lagi dengan pria luar negeri. Tapi pernikahan mereka tidak harmonis. Kerap kali ibu saya dikatakan kata-kata umpatan setiap kali dia mabuk. Ibu saya dikatai pelacur, bajingan, bodoh, tolol, dan kata-kata menyakitkan lainnya.",Low
+496,Seksual,"Saya benci dengan kakak ipar saya, dia suka menyentuh bagian dada saya dengan sengaja. Padahal saya sudah memperlihatkan ketidaknyamanan yang saya rasakan",High
+497,penelantaran,Ayah saya pergi dan tidak pernah kembali karena tidak sanggup memberi makan saya dan adik,High
+498,Fisik,"Kenalan saya mengadopsi anak, tapi karena anak itu sering menangis, kenalan saya sering melakukan kekerasan fisik padanya. Seperti membantingnya, memukulnya, dan menamparnya. Padahal anaknya baru berumur 6 bulan",High
+499,Seksual,"Kemarin saya bertemu lagi dengan teman SMA yang sudah lama tidak bertemu. Tapi ternyata saya dijebak, saya ditahan dan diperkosa olehnya lalu setelahnya dia kabur",High
+500,Seksual,"Perilaku anak saya terlihat aneh dan ketakutan. Saat saya tanya, ternyata dia habis dipaksa melakukan hubungan badan dengan tentangga",High
